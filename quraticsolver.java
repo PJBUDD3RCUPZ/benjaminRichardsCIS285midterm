@@ -6,6 +6,7 @@ public class quraticsolver {
 		int a = 18;
 		int b = 18;
 		int c = 18;
+		//change made for question 2 in the midterm
 		if (b*b - 4*a*c <0)
 			System.out.println("This equation " + a + "x^2 + " + b +"x + " + c +" has no solution");
 		else
